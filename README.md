@@ -13,7 +13,7 @@ The talk is about joining geo-spatial data, and explains why this is useful, how
   - My Twitter ID is [@sanand0](https://twitter.com/sanand0)
   - The PyCon India hashtag is [#PyConIndia2019](https://twitter.com/search?q=%23pyconindia2019)
 - The talk mentions [an article in The Hindu about the Muslim vote][hindu-article]
-- The analysis uses geospatial joins using the [reshaper library](https://github.com/gramener/reshaper) using `merge.py`
+- The analysis uses geospatial joins using the [reshaper library](https://github.com/sanand0/reshaper) using `merge.py`
   - This internally uses [geopandas](https://pypi.org/project/geopandas)
 - [QGIS](https://www.qgis.org/) is a powerful GUI tool to process shapefiles
   - Here's a tutorial on [creating Voronoi polygons](http://djjr-courses.wikidot.com/soc128:qgis-voronoi-polygons) in QGIS. This lets you create regions from addresses or locations
@@ -21,10 +21,10 @@ The talk is about joining geo-spatial data, and explains why this is useful, how
 
 ## What can you do now?
 
-- **Have ideas?** If you have suggestions on useful geo-spatial joins to explore, [raise an issue](https://github.com/gramener/pycon2019/issues). Let's crowd-source and find out which geo-joins are useful
+- **Have ideas?** If you have suggestions on useful geo-spatial joins to explore, [raise an issue](https://github.com/sanand0/pycon2019/issues). Let's crowd-source and find out which geo-joins are useful
 - **Want to try it?** Build your portfolio?
   - Search for maps on [Datameet]((https://groups.google.com/forum/#!forum/datameet))
-  - Find reshaper at [reshaper library](https://github.com/gramener/reshaper)
+  - Find reshaper at [reshaper library](https://github.com/sanand0/reshaper)
   - Share on Twitter, tag [@sanand0](https://twitter.com/sanand0). I’ll share it with media
 - **Want to learn or contribute?**
   - Email me at s.anand@gramener.com
